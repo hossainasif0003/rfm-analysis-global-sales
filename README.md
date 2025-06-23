@@ -2,10 +2,10 @@
 
 This is a simple Python project that looks at online shopping data. It helps understand which products and countries bring in the most money, and it finds the best customers using RFM (Recency, Frequency, Monetary) analysis.
 
-## 👤 Author
+##  Author
 Asif Hossain
 
-## 📄 What This Project Does
+##  What This Project Does
 
 - Reads a file called **Online Retail.csv**.
 - Cleans the data (removes empty or wrong data).
@@ -20,13 +20,13 @@ Asif Hossain
   - **Monetary** (how much money they spent)
 - Shows the best customers with score `101010`.
 
-## 📊 What Tools Are Used
+##  What Tools Are Used
 
 - **Pandas** – to read and work with data
 - **Matplotlib** – to make graphs
 - **Seaborn** – to make nicer graphs
 
-## ▶️ How to Run It
+##  How to Run It
 
 1. Make sure Python is installed.
 2. Install the needed tools:
