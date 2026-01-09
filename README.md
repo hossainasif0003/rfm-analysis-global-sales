@@ -1,6 +1,6 @@
 # Online Retail Data Analysis with RFM Segmentation
 
-This is a simple Python project that looks at online shopping data. It helps understand which products and countries bring in the most money, and it finds the best customers using RFM (Recency, Frequency, Monetary) analysis.
+This is a Python project that looks at online shopping data. It helps understand which products and countries bring in the most money, and it finds the best customers using RFM (Recency, Frequency, Monetary) analysis.
 
 ##  Author
 Asif Hossain
